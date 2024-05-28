@@ -36,4 +36,4 @@ I'm a passionate **Front-End Developer** from Egypt. I love writing code and lea
 
 ## Get in Touch 📬
 
-- **[LinkedIn](https://www.linkedin.com/in/eman-radwan-8601b122a/)**
+**[LinkedIn](https://www.linkedin.com/in/eman-radwan-8601b122a/)**
