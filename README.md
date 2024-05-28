@@ -5,7 +5,7 @@
 I'm a passionate **Front-End Developer** from Egypt. I love writing code and learning new skills to create creative and effecient web solutions.
 
 - 🌱 Currently learning: **Next.js & Node.js**
-- 📫 How to reach me: **[LinkedIn]**(https://www.linkedin.com/in/eman-radwan-8601b122a/)
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/eman-radwan-8601b122a/)**
 
 ## My Skills 🧠
 
@@ -28,12 +28,12 @@ I'm a passionate **Front-End Developer** from Egypt. I love writing code and lea
 
 ### [FreshCart](https://fresh-cart-ecommerce.vercel.app)
 
-**FreshCart** is a **Simple e-commerce web application** built with **React.js**. You can check out the repository here(https://github.com/EmanRadwan114/Fresh-Cart).
+**FreshCart** is a **Simple e-commerce web application** built with **React.js**. You can check out the repository [here](https://github.com/EmanRadwan114/Fresh-Cart).
 
 ### [QuickNotes](https://quick-notes-xi.vercel.app)
 
-**QuickNotes** is a **note taking app** built with **React.js**. You can check out the repository here(https://github.com/EmanRadwan114/QuickNotes).
+**QuickNotes** is a **note taking app** built with **React.js**. You can check out the repository [here](https://github.com/EmanRadwan114/QuickNotes).
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/eman-radwan-8601b122a/)
+- **[LinkedIn](https://www.linkedin.com/in/eman-radwan-8601b122a/)**
