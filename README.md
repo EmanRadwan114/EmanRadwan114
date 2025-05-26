@@ -26,6 +26,14 @@ I'm a passionate **Front-End Developer** from Egypt. I love writing code and lea
 
 ## Featured Projects 💻
 
+### [Swirlo](https://swirlo.netlify.app/)
+
+**Swirlo** is a **Modern and Interactive Coffee Shop Website built using React.js, React Query, Material UI & Node.js**. You can check out the repository [here](https://github.com/EmanRadwan114/swirlo).
+
+### [Velvoria](https://velvoria.netlify.app/home)
+
+**Velvoria** is a **Furniture E-Commerce Website that is built with Angular, TailwindCSS & Node.JS**. You can check out the repository [here](https://github.com/EmanRadwan114/velvoria).
+
 ### [FreshCart](https://fresh-cart-ecommerce.vercel.app)
 
 **FreshCart** is a **Simple e-commerce web application** built with **React.js**. You can check out the repository [here](https://github.com/EmanRadwan114/Fresh-Cart).
