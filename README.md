@@ -28,9 +28,7 @@ I'm a passionate **Front-End Developer** from Egypt. I love writing code and lea
 
 ### [Bubbli Gift Store](https://bubbli-gifts.netlify.app/)
 
-**Bubbli** is a **Interactive Gift Store Website built with React.js, React Query, Tailwind CSS, Node.js, Express.js & MongoDB.
-
-**. You can check out the repository [here](https://github.com/EmanRadwan114/bubbli).
+**Bubbli** is an **Interactive Gift Store Website built with React.js, React Query, Tailwind CSS, Node.js, Express.js & MongoDB.**. You can check out the repository [here](https://github.com/EmanRadwan114/bubbli).
 
 ### [Swirlo](https://swirlo.netlify.app/)
 
