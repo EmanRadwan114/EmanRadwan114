@@ -4,7 +4,7 @@
 
 I'm a passionate **Front-End Developer** from Egypt. I love writing code and learning new skills to create creative and effecient web solutions.
 
-- 🌱 Currently learning: **React.js, Angular.js, Next.js & Node.js**
+- 🌱 Currently learning: **React.js, Angular, Next.js & Node.js**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/eman-radwan99/)**
 
 ## My Skills 🧠
