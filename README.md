@@ -4,7 +4,7 @@
 
 I'm a passionate **MERN Stack Developer** from Egypt. I love writing code and learning new skills to create creative and effecient web solutions.
 
-- 🌱 Currently learning: **React.js, Next.js, React Native, Vue & Node.js**
+- 🌱 Currently learning: **React.js, Next.js, React Native & Node.js**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/eman-radwan99/)**
 - 💻 See Samples of my work: **[My Portfolio](https://emanradwan.netlify.app/)**
 
